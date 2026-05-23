@@ -1,0 +1,5 @@
+2026-05-22T20:26:27 - Market data pull stopped by user.
+2026-05-22T20:26:27 - Last attempted: DQ index=36
+2026-05-22T20:26:27 - Last completed: DQ index=36
+2026-05-22T21:41:51 - PROFILE ERROR EFR: argument of type 'NoneType' is not a container or iterable
+2026-05-23T00:21:35 - PROFILE ERROR AVT: argument of type 'NoneType' is not a container or iterable
